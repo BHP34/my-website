@@ -1,0 +1,103 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 02 Jun 2023 19:00:37 at https://boostroyal.fr/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://boostroyal.fr/ -O1 "C:\My Web Sites\lol boosting" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:00:57	Error: 	"Forbidden" (403) at link https://d1dou5kerfs1ji.cloudfront.net/uploads/employees/default.jpg (from https://boostroyal.fr/)
+19:01:52	Warning: 	Retry after error -4 (No data (connection closed)) at link https://bat.bing.com/p/action/17509540.js (from https://boostroyal.fr/)
+19:01:53	Warning: 	Moved Permanently for boostroyal.fr/robots.txt
+19:01:53	Warning: 	Redirected link is identical because of 'URL Hack' option: boostroyal.fr/robots.txt and https://boostroyal.fr/robots.txt
+19:01:53	Warning: 	Warning moved treated for boostroyal.fr/robots.txt (real one is https://boostroyal.fr/robots.txt)
+19:01:53	Warning: 	Moved Permanently for boostroyal.fr/boosters/
+19:01:53	Warning: 	Redirected link is identical because of 'URL Hack' option: boostroyal.fr/boosters/ and https://boostroyal.fr/boosters/
+19:01:53	Warning: 	File has moved from boostroyal.fr/boosters/ to https://boostroyal.fr/boosters/
+19:01:53	Warning: 	Moved Permanently for boostroyal.fr/boostroyal-premium/
+19:01:53	Warning: 	Redirected link is identical because of 'URL Hack' option: boostroyal.fr/boostroyal-premium/ and https://boostroyal.fr/boostroyal-premium/
+19:01:53	Warning: 	File has moved from boostroyal.fr/boostroyal-premium/ to https://boostroyal.fr/boostroyal-premium/
+19:01:53	Warning: 	Moved Permanently for boostroyal.fr/loyalty-program/
+19:01:53	Warning: 	Redirected link is identical because of 'URL Hack' option: boostroyal.fr/loyalty-program/ and https://boostroyal.fr/loyalty-program/
+19:01:53	Warning: 	File has moved from boostroyal.fr/loyalty-program/ to https://boostroyal.fr/loyalty-program/
+19:01:53	Warning: 	Moved Permanently for boostroyal.fr/contact/
+19:01:53	Warning: 	Redirected link is identical because of 'URL Hack' option: boostroyal.fr/contact/ and https://boostroyal.fr/contact/
+19:01:53	Warning: 	File has moved from boostroyal.fr/contact/ to https://boostroyal.fr/contact/
+19:01:53	Warning: 	Moved Permanently for boostroyal.fr/account-leveling/
+19:01:53	Warning: 	Redirected link is identical because of 'URL Hack' option: boostroyal.fr/account-leveling/ and https://boostroyal.fr/account-leveling/
+19:01:53	Warning: 	File has moved from boostroyal.fr/account-leveling/ to https://boostroyal.fr/account-leveling/
+19:01:53	Warning: 	Moved Permanently for boostroyal.fr/ranked-wins-boost/
+19:01:53	Warning: 	Redirected link is identical because of 'URL Hack' option: boostroyal.fr/ranked-wins-boost/ and https://boostroyal.fr/ranked-wins-boost/
+19:01:53	Warning: 	File has moved from boostroyal.fr/ranked-wins-boost/ to https://boostroyal.fr/ranked-wins-boost/
+19:01:53	Warning: 	Moved Permanently for boostroyal.fr/duoqueue-boosting/
+19:01:53	Warning: 	Redirected link is identical because of 'URL Hack' option: boostroyal.fr/duoqueue-boosting/ and https://boostroyal.fr/duoqueue-boosting/
+19:01:53	Warning: 	File has moved from boostroyal.fr/duoqueue-boosting/ to https://boostroyal.fr/duoqueue-boosting/
+19:01:53	Warning: 	Moved Permanently for boostroyal.fr/placement-matches/
+19:01:53	Warning: 	Redirected link is identical because of 'URL Hack' option: boostroyal.fr/placement-matches/ and https://boostroyal.fr/placement-matches/
+19:01:53	Warning: 	File has moved from boostroyal.fr/placement-matches/ to https://boostroyal.fr/placement-matches/
+19:01:53	Warning: 	Moved Permanently for boostroyal.fr/champion-mastery/
+19:01:53	Warning: 	Redirected link is identical because of 'URL Hack' option: boostroyal.fr/champion-mastery/ and https://boostroyal.fr/champion-mastery/
+19:01:53	Warning: 	File has moved from boostroyal.fr/champion-mastery/ to https://boostroyal.fr/champion-mastery/
+19:01:53	Warning: 	Moved Permanently for boostroyal.fr/clash-boosting/
+19:01:53	Warning: 	Redirected link is identical because of 'URL Hack' option: boostroyal.fr/clash-boosting/ and https://boostroyal.fr/clash-boosting/
+19:01:53	Warning: 	File has moved from boostroyal.fr/clash-boosting/ to https://boostroyal.fr/clash-boosting/
+19:01:53	Warning: 	Moved Permanently for boostroyal.fr/normal-matches/
+19:01:53	Warning: 	Redirected link is identical because of 'URL Hack' option: boostroyal.fr/normal-matches/ and https://boostroyal.fr/normal-matches/
+19:01:53	Warning: 	File has moved from boostroyal.fr/normal-matches/ to https://boostroyal.fr/normal-matches/
+19:01:53	Warning: 	Moved Permanently for boostroyal.fr/wild-rift-smurf/
+19:01:53	Warning: 	Redirected link is identical because of 'URL Hack' option: boostroyal.fr/wild-rift-smurf/ and https://boostroyal.fr/wild-rift-smurf/
+19:01:53	Warning: 	File has moved from boostroyal.fr/wild-rift-smurf/ to https://boostroyal.fr/wild-rift-smurf/
+19:01:53	Warning: 	Moved Permanently for boostroyal.fr/promotion-boosting/
+19:01:53	Warning: 	Redirected link is identical because of 'URL Hack' option: boostroyal.fr/promotion-boosting/ and https://boostroyal.fr/promotion-boosting/
+19:01:53	Warning: 	File has moved from boostroyal.fr/promotion-boosting/ to https://boostroyal.fr/promotion-boosting/
+19:01:53	Warning: 	Moved Permanently for boostroyal.fr/valorant-smurf/
+19:01:53	Warning: 	Redirected link is identical because of 'URL Hack' option: boostroyal.fr/valorant-smurf/ and https://boostroyal.fr/valorant-smurf/
+19:01:53	Warning: 	File has moved from boostroyal.fr/valorant-smurf/ to https://boostroyal.fr/valorant-smurf/
+19:01:53	Warning: 	Moved Permanently for boostroyal.fr/lor-boosting/
+19:01:53	Warning: 	Redirected link is identical because of 'URL Hack' option: boostroyal.fr/lor-boosting/ and https://boostroyal.fr/lor-boosting/
+19:01:53	Warning: 	File has moved from boostroyal.fr/lor-boosting/ to https://boostroyal.fr/lor-boosting/
+19:01:53	Warning: 	Moved Permanently for boostroyal.fr/tft-ranked-boost/
+19:01:53	Warning: 	Redirected link is identical because of 'URL Hack' option: boostroyal.fr/tft-ranked-boost/ and https://boostroyal.fr/tft-ranked-boost/
+19:01:53	Warning: 	File has moved from boostroyal.fr/tft-ranked-boost/ to https://boostroyal.fr/tft-ranked-boost/
+19:01:53	Warning: 	Moved Permanently for boostroyal.fr/buy-league-of-legends-account/
+19:01:53	Warning: 	Redirected link is identical because of 'URL Hack' option: boostroyal.fr/buy-league-of-legends-account/ and https://boostroyal.fr/buy-league-of-legends-account/
+19:01:53	Warning: 	File has moved from boostroyal.fr/buy-league-of-legends-account/ to https://boostroyal.fr/buy-league-of-legends-account/
+19:01:53	Warning: 	Moved Permanently for boostroyal.fr/buy-smurf-account/
+19:01:53	Warning: 	Redirected link is identical because of 'URL Hack' option: boostroyal.fr/buy-smurf-account/ and https://boostroyal.fr/buy-smurf-account/
+19:01:53	Warning: 	File has moved from boostroyal.fr/buy-smurf-account/ to https://boostroyal.fr/buy-smurf-account/
+19:01:53	Warning: 	Moved Permanently for boostroyal.fr/buy-lol-account/
+19:01:53	Warning: 	Redirected link is identical because of 'URL Hack' option: boostroyal.fr/buy-lol-account/ and https://boostroyal.fr/buy-lol-account/
+19:01:53	Warning: 	File has moved from boostroyal.fr/buy-lol-account/ to https://boostroyal.fr/buy-lol-account/
+19:01:53	Error: 	"Not Found" (404) at link https://boostroyal.fr/checkout/payment (from https://boostroyal.fr/)
+19:01:53	Warning: 	Moved Permanently for boostroyal.fr/lol-boosting/
+19:01:53	Warning: 	Redirected link is identical because of 'URL Hack' option: boostroyal.fr/lol-boosting/ and https://boostroyal.fr/lol-boosting/
+19:01:53	Warning: 	File has moved from boostroyal.fr/lol-boosting/ to https://boostroyal.fr/lol-boosting/
+19:01:53	Warning: 	Moved Permanently for boostroyal.fr/valorant-boosting/
+19:01:53	Warning: 	Redirected link is identical because of 'URL Hack' option: boostroyal.fr/valorant-boosting/ and https://boostroyal.fr/valorant-boosting/
+19:01:53	Warning: 	File has moved from boostroyal.fr/valorant-boosting/ to https://boostroyal.fr/valorant-boosting/
+19:01:53	Warning: 	Moved Permanently for boostroyal.fr/wild-rift-boosting/
+19:01:53	Warning: 	Redirected link is identical because of 'URL Hack' option: boostroyal.fr/wild-rift-boosting/ and https://boostroyal.fr/wild-rift-boosting/
+19:01:53	Warning: 	File has moved from boostroyal.fr/wild-rift-boosting/ to https://boostroyal.fr/wild-rift-boosting/
+19:01:53	Warning: 	Moved Permanently for boostroyal.fr/blog/
+19:01:53	Warning: 	Redirected link is identical because of 'URL Hack' option: boostroyal.fr/blog/ and https://boostroyal.fr/blog/
+19:01:53	Warning: 	File has moved from boostroyal.fr/blog/ to https://boostroyal.fr/blog/
+19:01:53	Warning: 	Moved Permanently for boostroyal.fr/blog/missions-de-league-of-legends-2023-calendrier/
+19:01:53	Warning: 	Redirected link is identical because of 'URL Hack' option: boostroyal.fr/blog/missions-de-league-of-legends-2023-calendrier/ and https://boostroyal.fr/blog/missions-de-league-of-legends-2023-calendrier/
+19:01:53	Warning: 	File has moved from boostroyal.fr/blog/missions-de-league-of-legends-2023-calendrier/ to https://boostroyal.fr/blog/missions-de-league-of-legends-2023-calendrier/
+19:01:53	Warning: 	Moved Permanently for boostroyal.fr/blog/tout-ce-que-vous-devez-savoir-sur-les-schtroumpfs-de-league-of-legends/
+19:01:53	Warning: 	Redirected link is identical because of 'URL Hack' option: boostroyal.fr/blog/tout-ce-que-vous-devez-savoir-sur-les-schtroumpfs-de-league-of-legends/ and https://boostroyal.fr/blog/tout-ce-que-vous-devez-savoir-sur-les-schtroumpfs-de-league-of-legends/
+19:01:53	Warning: 	File has moved from boostroyal.fr/blog/tout-ce-que-vous-devez-savoir-sur-les-schtroumpfs-de-league-of-legends/ to https://boostroyal.fr/blog/tout-ce-que-vous-devez-savoir-sur-les-schtroumpfs-de-league-of-legends/
+19:01:53	Error: 	"Not Found" (404) at link https://boostroyal.fr/legal/terms-of-use (from https://boostroyal.fr/)
+19:01:53	Warning: 	Moved Permanently for boostroyal.fr/legal/privacy-policy/
+19:01:53	Warning: 	Redirected link is identical because of 'URL Hack' option: boostroyal.fr/legal/privacy-policy/ and https://boostroyal.fr/legal/privacy-policy/
+19:01:53	Warning: 	File has moved from boostroyal.fr/legal/privacy-policy/ to https://boostroyal.fr/legal/privacy-policy/
+19:01:53	Error: 	"Not Found" (404) at link https://boostroyal.fr/legal/dmca (from https://boostroyal.fr/)
+19:01:53	Error: 	"Not Found" (404) at link https://boostroyal.fr/partner-program (from https://boostroyal.fr/)
+19:01:53	Error: 	"Not Found" (404) at link https://boostroyal.fr/c (from https://connect.facebook.net/en_US/fbevents.js)
+19:01:53	Error: 	"Not Found" (404) at link https://boostroyal.fr/b (from https://connect.facebook.net/en_US/fbevents.js)
+19:01:53	Error: 	"Not Found" (404) at link https://boostroyal.fr/POST (from https://connect.facebook.net/en_US/fbevents.js)
+19:02:56	Warning: 	Retry after error -4 (No data (connection closed)) at link https://bat.bing.com/p/action/17509540.js (from https://boostroyal.fr/)
+19:04:01	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://bat.bing.com/p/action/17509540.js (from https://boostroyal.fr/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 24 seconds : 60 links scanned, 21 files written (1190092 bytes overall) [632523 bytes received at 3100 bytes/sec], 1019738 bytes transferred using HTTP compression in 22 files, ratio 27%, 3.2 requests per connection
+(9 errors, 83 warnings, 0 messages)
